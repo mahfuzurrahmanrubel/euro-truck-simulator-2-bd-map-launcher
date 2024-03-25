@@ -1,0 +1,26 @@
+# Visual Studio / Rider / ReSharper
+.vs/
+.idea/
+*.sln.iml
+_ReSharper*/
+*.resharper
+*.suo
+*.user
+*.userprefs
+*.cache
+*.vscode
+*.vsconfig
+*.vssscc
+.vscode/
+*.dbmdl
+
+# Build results
+bin/
+obj/
+
+# NuGet Packages
+*.nupkg
+*.paket/paket-files/
+packages/
+project.lock.json
+npm-debug.log
